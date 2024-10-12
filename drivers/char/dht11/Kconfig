@@ -1,0 +1,7 @@
+config DHT11
+tristate "dht11 driver"
+help
+  just a dht11 driver.
+default y
+
+
